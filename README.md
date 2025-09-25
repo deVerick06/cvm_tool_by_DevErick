@@ -34,6 +34,8 @@ pandas
 
 requests
 
+pyinstaller
+
 
 ## 📦 Instalação
 
@@ -50,7 +52,7 @@ pip install -r requirements.txt
 
 ## ▶️ Como usar
 
-1- Execute o programa principal: python cvm_tool.py
+1- Use o pyinstaller para passar o arquivo .py para exe, e rode
 
 2- Use a interface gráfica para:
 -Selecionar o período ou critérios de busca
