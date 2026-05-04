@@ -3,4 +3,5 @@ selenium
 webdriver-manager
 beautifulsoup4
 requests
-tkinter
+lxml
+openpyxl
