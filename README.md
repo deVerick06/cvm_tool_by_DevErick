@@ -1,24 +1,24 @@
-## 📑 CVM_Tool
+## CVM_Tool
 
 O CVM_Tool é um software em Python desenvolvido para facilitar a coleta das decisões da Comissão de Valores Mobiliários (CVM) diretamente do site oficial.
 
 Ele automatiza a busca, realiza o download dos PDFs e de seus anexos, e organiza tudo em pastas, otimizando o trabalho de advogados e profissionais da área jurídica que precisam dessas informações no dia a dia.
 
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-🔎 Busca automática por decisões da CVM
+ Busca automática por decisões da CVM
 
-📂 Download em PDF das decisões
+ Download em PDF das decisões
 
-📎 Download dos anexos relacionados a cada decisão
+ Download dos anexos relacionados a cada decisão
 
-🗂️ Organização dos arquivos em pastas estruturadas
+ Organização dos arquivos em pastas estruturadas
 
-🖥️ Interface gráfica amigável desenvolvida com Tkinter
+ Interface gráfica amigável desenvolvida com Tkinter
 
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 O projeto foi desenvolvido em Python com uso de bibliotecas de automação, scraping e manipulação de dados.
 
@@ -37,7 +37,7 @@ requests
 pyinstaller
 
 
-## 📦 Instalação
+##  Instalação
 
 Clone este repositório:
 git clone https://github.com/deVerick06/CVM_Tool.git
@@ -50,7 +50,7 @@ Instale as dependências:
 pip install -r requirements.txt
 
 
-## ▶️ Como usar
+##  Como usar
 
 1- Use o pyinstaller para passar o arquivo .py para exe, e rode
 
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 3- Os arquivos serão salvos em pastas organizadas por decisão.
 
 
-## 🎯 Público-alvo
+##  Público-alvo
 
 Este software foi criado especialmente para:
 
@@ -75,7 +75,7 @@ Este software foi criado especialmente para:
 -Pesquisadores interessados em decisões da CVM
 
 
-## 📌 Próximos passos (Roadmap)
+##  Próximos passos (Roadmap)
 
 - Implementar filtros de busca avançados
 
@@ -85,7 +85,7 @@ Este software foi criado especialmente para:
 
 - Implementar um agente de IA
 
-## 📜 Licença
+##  Licença
 Este projeto está licenciado sob a 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
